@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ARDUINO GUI", "ARDUINO GUI\ARDUINO GUI.csproj", "{078E9B85-CEFD-46A3-AD4E-F41E05157D9E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{078E9B85-CEFD-46A3-AD4E-F41E05157D9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{078E9B85-CEFD-46A3-AD4E-F41E05157D9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{078E9B85-CEFD-46A3-AD4E-F41E05157D9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{078E9B85-CEFD-46A3-AD4E-F41E05157D9E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4FD3B926-4298-4289-85B7-74DB935D87C7}
+	EndGlobalSection
+EndGlobal
